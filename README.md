@@ -1,5 +1,8 @@
-# PracticeJava
+# PracticeJava demo
 
 First project demo
+<br> 
+of the practice session
 
-## Suraj prakash
+## Author
+Suraj prakash
